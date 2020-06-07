@@ -1,0 +1,10 @@
+{
+    "//": "Rename me to config.json!",
+    "token": "Your bot token",
+    "badWords": ["some", "bad", "words"],
+    "nsfwCommands": ["some", "NSFW", "commands"],
+    "nWords": ["array", "of", "n-words"],
+    "atEveyone": "<@&593122907857748002>",
+    "atHere": "<@&593127354164051982>",
+    "welcomer": "<@&598932499212795915>"
+}

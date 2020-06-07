@@ -1,0 +1,24 @@
+{
+  "name": "lurking-raccoon",
+  "version": "1.0.0",
+  "description": "A discord bot by Gideon Grey#4325 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gideon-Grey/Lurking-Racoon-version-1.git"
+  },
+  "author": "Gideon Grey",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Gideon-Grey/Lurking-Racoon-version-1/issues"
+  },
+  "homepage": "https://github.com/Gideon-Grey/Lurking-Racoon-version-1#readme",
+  "dependencies": {
+    "discord.js": "^11.6.2",
+    "moment": "^2.26.0",
+    "moment-duration-format": "^2.3.2"
+  }
+}
